@@ -1,0 +1,5 @@
+Users with non-binary login shells
+----------------------------------------
+Epsilon --> /usr/local/bin/f1shell
+Jake --> /usr/local/bin/f1shell
+Kate --> /usr/local/bin/f2shell
