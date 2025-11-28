@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Royden",
+      "course": "CSE",
+      "year": 2025
+    },
+    {
+      "id": 2,
+      "name": "A",
+      "course": "ECE",
+      "year": 2024
+    },
+    {
+      "id": 3,
+      "name": "B",
+      "course": "MECH",
+      "year": 2025
+    }
+  ],
+  "subjects": [
+    {
+      "code": "CS101",
+      "name": "Python Programming"
+    },
+    {
+      "code": "CS102",
+      "name": "Data Structures"
+    }
+  ]
+}
