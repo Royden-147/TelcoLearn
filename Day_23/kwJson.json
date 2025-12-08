@@ -1,0 +1,9 @@
+{
+  "uid": "abcd",
+  "name": "Royden",
+  "signUp": "2025-01-05T10:30:00",
+  "tastes": {
+    "sweet": 3,
+    "spicy": 5
+  }
+}

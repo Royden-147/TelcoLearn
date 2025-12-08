@@ -1,0 +1,11 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "description": "An example JSON file",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
