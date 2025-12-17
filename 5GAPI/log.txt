@@ -1,0 +1,11 @@
+2025-12-12 21:32:56,131 | INFO | Starting service extraction
+2025-12-12 21:32:56,131 | INFO | Loading YAML: C:\Users\ROYDEN\OneDrive\Desktop\New folder\TelcoLearn\Day_15\ts24549.yaml
+2025-12-12 21:32:56,160 | INFO | Extracted endpoint: POST /edn-slice-subscriptions
+2025-12-12 21:32:56,160 | INFO | Extracted endpoint: POST /plmn-slice-subscriptions
+2025-12-12 21:32:56,160 | INFO | Extracted endpoint: POST /ns-info-subscriptions
+2025-12-12 21:32:56,161 | INFO | Services saved
+2025-12-12 21:32:56,162 | INFO | Summary saved successfully
+2025-12-12 21:41:09,899 | INFO | Starting service extraction
+2025-12-12 21:41:09,899 | INFO | Loading YAML: C:\Users\ROYDEN\OneDrive\Desktop\New folder\TelcoLearn\Day_15\ts2454.yaml
+[Errno 2] No such file or directory: 'C:\\Users\\ROYDEN\\OneDrive\\Desktop\\New folder\\TelcoLearn\\Day_15\\ts2454.yaml'
+2025-12-12 21:41:09,900 | ERROR | YAML file not found
